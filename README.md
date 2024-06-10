@@ -1,4 +1,4 @@
-# Canyon Bomber
+# Canyon Bomber - Arquivado!
 
 Trabalho final proposto para a matéria Programação e Desenvolvimento de Software 1, baseado na biblioteca Allegro 5.\
 \
