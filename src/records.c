@@ -10,7 +10,6 @@ int ler_regs(Registro **regs)
     
     if (!file) 
     {
-        fclose(file);
         return 0;
     }
     else
